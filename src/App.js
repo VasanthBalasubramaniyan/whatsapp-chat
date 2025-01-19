@@ -1,4 +1,4 @@
-import Find from "./components/Search"
+import Find from "./components/Find"
 import Chat from "./components/Chat"
 
 function App() {
