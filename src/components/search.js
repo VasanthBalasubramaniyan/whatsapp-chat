@@ -2,7 +2,7 @@ import searchIcon from "../assets/images/search.png"
 import "../index.css"
 // Search Component
 
-function Search() {
+function Find() {
     return(
         <div className="search__section">
             <input type = "text" className="search__input" placeholder = "Search"></input>
@@ -11,4 +11,4 @@ function Search() {
     )
 }
 
-export default Search
+export default Find

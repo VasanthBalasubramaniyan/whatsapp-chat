@@ -1,10 +1,10 @@
-import Search from "./components/Search"
+import Find from "./components/Search"
 import Chat from "./components/Chat"
 
 function App() {
     return (
         <div>
-            <Search></Search>
+            <Find></Find>
             <Chat></Chat>
         </div>
     )
